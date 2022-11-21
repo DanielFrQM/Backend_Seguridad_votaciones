@@ -1,0 +1,19 @@
+Seguridad de Registraduria
+
+Usuario----
+
+{
+    "seudonimo":"danielfrqm",
+    "correo":"danielfrancisco@correo.com",
+    "contrasena":"MisionTic2022"
+}
+
+bd_seguridadregistraduria
+
+----------------------
+
+{
+    "seudonimo":"DianaRQ",
+    "correo":"diana.quintero@correo.com ",
+    "contrasena":"diana123"
+}
